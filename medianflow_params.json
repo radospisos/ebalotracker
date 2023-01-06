@@ -1,0 +1,15 @@
+{
+  "MF": {
+    "maxLevel": 1846,
+    "maxMedianLengthOfDisplacementDifference": 7.857012450074193,
+    "pointsInGrid": 6,
+    "winSize": [
+        36,
+        30
+    ],
+    "winSizeNCC": [
+        18,
+        3
+    ]
+  }
+}
